@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120084187663",
+    "firebase_url": "https://filterradiotestapp.firebaseio.com",
+    "project_id": "filterradiotestapp",
+    "storage_bucket": "filterradiotestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120084187663:android:a47ec9c47e91a83f5ff17a",
+        "android_client_info": {
+          "package_name": "com.example.filterradiotestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120084187663-p8skee5l7avctrchdvnc8jml375ahclo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.filterradiotestapp",
+            "certificate_hash": "988e450ed22effb29073d6394360b94019bf2444"
+          }
+        },
+        {
+          "client_id": "120084187663-oun56lmfdeh8ihkklpm60tfihs8f04ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPZWUEgZZWf9EAeYeBQH4R9FbvOLn9K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120084187663-oun56lmfdeh8ihkklpm60tfihs8f04ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
